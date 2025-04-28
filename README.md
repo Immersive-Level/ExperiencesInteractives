@@ -64,11 +64,4 @@ If you have ideas for new games, improvements to gesture detection, or want to a
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it with proper attribution!
-
----
-
 > **Move beyond buttons. Dive into a world of movement-driven gaming.**
